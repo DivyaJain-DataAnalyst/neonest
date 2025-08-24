@@ -80,22 +80,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<details>
-  <summary><strong>📁 Folder Structure</strong></summary>
-
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 **🔥 Features at a Glance**
 
- ***🍼 Feeding Tracker ***
+ ***🍼 Feeding Tracker***
 - Log breast/formula feeds with time, amount, and notes  
 - Set personalized feeding schedules  
 - Track daily/weekly patterns for better routine building  
 
-***😴 Sleep Tracker ***
+***😴 Sleep Tracker***
 - Record nap times and overnight sleep durations  
 
  ***📈 Growth & Development***
@@ -162,7 +154,7 @@
 ***🧠 AI Integration***
 - **Google Gemini API** – Chatbot, lullaby generator, feedback analyzer  
 
-***🚀 Deployment ***
+***🚀 Deployment***
 - Vercel  
 - **Version Control**: GitHub
   
