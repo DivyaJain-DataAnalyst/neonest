@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-[![GSSoC'25](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-2025-orange?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech/)
+
+![GSSoC'25](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-2025-orange?style=for-the-badge&logo=github)
 
 > NeoNest is a smart, centralized digital platform that supports new parents—especially first-timers—through their baby’s first year. It combines **predictive care**, **emotional comfort**, and **intelligent tracking** into a single unified experience.
 
@@ -20,6 +21,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **📊 Project Insights**
 
 <table align="center">
@@ -48,6 +50,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
  **🚩 Problem We Addressed**
 
 > New parents often juggle sleepless nights, emotional stress, and confusing information scattered across dozens of apps. The lack of a **unified, intelligent system** increases cognitive load and puts both **parental mental health** and **infant care** at risk—especially during the crucial first year where over 80% of brain development and long-term habits are formed.
@@ -55,6 +58,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **🌟 Solution Overview**
 
 >**NeoNest** bridges this gap with an all-in-one AI-powered babycare assistant. From **feeding logs** to **vaccine reminders**, **milestone tracking**, and an **empathetic chatbot**, it helps parents stay organized, supported, and informed—without feeling overwhelmed.
@@ -62,6 +66,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 ![GSSoC Logo](/neonest/public/gssoc%20logo.png)
 
 **🌟 Exciting News...**
@@ -120,6 +125,7 @@ neonest/
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **🔥 Features at a Glance**
 
  ***🍼 Feeding Tracker***
@@ -177,6 +183,7 @@ neonest/
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **🛠 Tech Stack**
 
 ***💻 Frontend***
@@ -202,6 +209,7 @@ neonest/
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **🧑‍💻 How to Run NeoNest Locally (Pull Requests)**
 
 Follow these steps to get NeoNest up and running on your local machine.
@@ -263,6 +271,7 @@ cd neonest
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **📜 Code of Conduct**
 
 Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
@@ -270,6 +279,7 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **🤝👤 Contribution Guidelines**
 
 We love our contributors! If you'd like to help, please check out our [`CONTRIBUTE.md`](https://github.com/AditiGupta-tech/neonest/blob/main/Contributing.md) file for guidelines.
@@ -297,6 +307,7 @@ See the full list of contributors and their contributions on the [`GitHub Contri
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **💡 Suggestions & Feedback**
 
 Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
@@ -312,6 +323,7 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **📄 License**
 
 This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
@@ -319,6 +331,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **⭐ Stargazers**
 
 <div align="center">
@@ -330,6 +343,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **🍴 Forkers**
 
 <div align="center">
@@ -340,6 +354,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 <h2>🧑‍💻Project Admin:</h2>
 <table>
 <tr>
@@ -352,6 +367,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **👨‍🏫 Mentors – NeoNest (GSSoC'25)**
 
 | Role          | Name               | GitHub Profile                                      | LinkedIn Profile                                                        |
@@ -361,6 +377,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Give us a Star and let's make magic! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h1>
 
 <p align="center">
@@ -370,6 +387,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 **👨‍💻 Built with ❤️ by NeoNest Team**
 
 [open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
