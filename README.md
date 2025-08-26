@@ -1,24 +1,22 @@
 **👶 NeoNest – Your AI-Powered Baby Care Assistant**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
-![GSSoC'25](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-2025-orange?style=for-the-badge)
+![GSSoC'25](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-2025-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AditiGupta-tech/neonest)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 > NeoNest is a smart, centralized digital platform that supports new parents—especially first-timers—through their baby’s first year. It combines **predictive care**, **emotional comfort**, and **intelligent tracking** into a single unified experience.
 
 🔗 **Live Website**: https://neonest-babycare.vercel.app/
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+NeoNest!+🙌;Start+the+repo+✅;Share+it+with+others+🌍;Contribute+and+grow+🛠️;Happy+Coding+✨!" alt="Thanks Banner Typing SVG" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **📊 Project Insights**
 
@@ -29,7 +27,6 @@
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
             <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Closed PRs</b></td>
             <td><b>🛠️ Languages</b></td>
             <td><b>👥 Contributors</b></td>
         </tr>
@@ -38,28 +35,27 @@
          <tr>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/AditiGupta-tech/neonest?style=flat&logo=github"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/AditiGupta-tech/neonest?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/BAditiGupta-tech/neonest?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/AditiGupta-tech/neonest?style=flat&logo=github"/></td>
             <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/AditiGupta-tech/neonest?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/AditiGupta-tech/neonest?style=flat&color=critical&logo=github"/></td>
             <td><img alt="Languages Count" src="https://img.shields.io/github/languages/count/AditiGupta-tech/neonest?style=flat&color=green&logo=github"></td>
             <td><img alt="Contributors Count" src="https://img.shields.io/github/contributors/AditiGupta-tech/neonest?style=flat&color=blue&logo=github"/></td>
         </tr>
     </tbody>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
  **🚩 Problem We Addressed**
 
 > New parents often juggle sleepless nights, emotional stress, and confusing information scattered across dozens of apps. The lack of a **unified, intelligent system** increases cognitive load and puts both **parental mental health** and **infant care** at risk—especially during the crucial first year where over 80% of brain development and long-term habits are formed.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **🌟 Solution Overview**
 
 >**NeoNest** bridges this gap with an all-in-one AI-powered babycare assistant. From **feeding logs** to **vaccine reminders**, **milestone tracking**, and an **empathetic chatbot**, it helps parents stay organized, supported, and informed—without feeling overwhelmed.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 ![GSSoC Logo](/neonest/public/gssoc%20logo.png)
 
@@ -78,7 +74,43 @@
 
 🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this NeoNest project family! Let's build, learn, and grow together — one commit at a time. 🔥👨‍💻👩‍💻
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
+
+**📁 NeoNest Folder Structure**
+
+```bash
+neonest/
+├── .github/ # Repo configs (e.g., CODEOWNERS)
+├── app/ # Next.js App Router (routes, layouts, API routes)
+├── lib/ # Shared libs/helpers (db, validators, services)
+├── public/ # Static assets (images, icons, etc.)
+├── src/ # Source code
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # All Next.js pages/routes
+│ ├── styles/ # Tailwind/global styles
+│ ├── utils/ # Utility/helper functions
+│ └── App.js # Main app logic
+├── utils/ # Utilities/hooks/constants used across app
+├── .gitignore # Git ignore rules
+├── .prettierrc # Prettier configuration
+├── CODE_OF_CONDUCT.md # Community standards
+├── Contributing.md # Contribution guidelines
+├── ENVIRONMENT_SETUP.md # Environment & setup instructions
+├── LICENSE # Project license
+├── README.md # Project documentation
+├── eslint.config.mjs # ESLint configuration
+├── jsconfig.json # JS path aliases/ts settings
+├── next.config.mjs # Next.js configuration
+├── package-lock.json # npm lockfile
+├── package.json # Dependencies & scripts
+├── pnpm-lock.yaml # pnpm lockfile
+├── postcss.config.js # PostCSS config (used by Tailwind)
+├── tailwind.config.js # Tailwind CSS configuration
+├── temp_audio.webm # Sample/media file (used in features/tests)
+└── test_audio.txt # Test stub file
+```
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **🔥 Features at a Glance**
 
@@ -90,7 +122,7 @@
 ***😴 Sleep Tracker***
 - Record nap times and overnight sleep durations  
 
- ***📈 Growth & Development***
+***📈 Growth & Development***
 - Track developmental milestones by month  
 - Suggest 0–1 year activities to support healthy growth   
 
@@ -133,8 +165,8 @@
 - **🧑‍⚕ Pediatrician Mode**: Baby health insights and early symptom explanations  
 - **🍼 Baby Mode**: Interprets needs from baby’s perspective   
 - **👵 Nani/Mother Mode**: Offers comfort, guidance, and traditional wisdom
-  
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **🛠 Tech Stack**
 
@@ -155,58 +187,76 @@
 - **Google Gemini API** – Chatbot, lullaby generator, feedback analyzer  
 
 ***🚀 Deployment***
-- Vercel  
-- **Version Control**: GitHub
-  
+- **Vercel** (Hosting)
+- **GitHub** (Version Control)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
-**🧑‍💻 How to Run NeoNest Locally**
+**🧑‍💻 How to Run NeoNest Locally (Pull Requests)**
 
-Follow these steps to get NeoNest up and running on your local machine:
+Follow these steps to get NeoNest up and running on your local machine.
+Here’s a quick overview of the contribution flow:
 
-***1. 📦 Clone the Repository***
+***🔁 Contribution Workflow***
 
-```bash
-git clone https://github.com/AditiGupta-tech/neonest
+1. **Star** and **Fork** the repo.
+
+2. **📦 Clone your fork**:
+
+ ```bash
+git clone https://github.com/AditiGupta-tech/neonest.git
 cd neonest
 ```
 
-***2. 💼 Install Dependencies***
+3. **💼 Install dependencies**:
 
-```
-npm install
-```
+ ```bash
+ npm install --legacy-peer-deps
+ ```
+ 
+4. **Create a new branch:**
 
-***3. 🧰 Install 'pnpm' (optional to install globally).***
+ ```bash
+ git checkout -b yourname/feature-name
+ ```
 
-```
-npm install pnpm -g
-```
+5. **Make your changes:**
+ * Stick to the project structure.
+ * Use helpful commit messages, eg:
+ * `fix: corrected typo in LandingPage.jsx`
+ * `feat: added baby sleep graph comparison`
 
-***4. 🧪 Create Environment Variables***
+6. **Format your code:**
 
-.env:
-```
-GEMINI_API_KEY=your_gemini_api_key
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-```
+ ```bash
+ npm run lint
+ ```
 
-***5. ▶ Run the Application***
-```
-npm run dev
-#or
-pnpm run dev
-```
+7. **Update `pnpm-lock.yaml` file using this command and push along with other commits:**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+ ```bash/cmd
+ pnpm install
+ ```
+
+8. **Test everything!** (Manual/automated if applicable)
+
+9. **Push your branch:**
+
+ ```bash
+ git push origin yourname/feature-name
+ ```
+
+10. **Open a Pull Request (PR) from your fork:**
+ * Reference related issue(s): `Fixes #<issue-number>`
+ * Add a clear title and summary.
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **📜 Code of Conduct**
 
 Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **🤝👤 Contribution Guidelines**
 
@@ -232,25 +282,25 @@ See the full list of contributors and their contributions on the [`GitHub Contri
 </p>
 </h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **💡 Suggestions & Feedback**
 
 Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **🙌 Support & Star**
 
 ***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives!***
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **📄 License**
 
 This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **⭐ Stargazers**
 
@@ -260,7 +310,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **🍴 Forkers**
 
@@ -269,7 +319,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
     <img src="https://reporoster.com/forks/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Forkers" />
   </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 <h2>🧑‍💻Project Admin:</h2>
 <table>
@@ -280,17 +330,15 @@ This project is licensed under the MIT License - see the [`License`](https://git
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **👨‍🏫 Mentors – NeoNest (GSSoC'25)**
 
 | Role          | Name               | GitHub Profile                                      | LinkedIn Profile                                                        |
 | ------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------- |
-| Mentor 1   | Gopichand Dandimeni |  [Gooichand](https://github.com/Gooichand)  | [gopichand-dandimeni](https://www.linkedin.com/in/gopichand-dandimeni-269709287/) |
-| Mentor 2   | Kushagra |  [kushagrakiyawat](https://github.com/kushagrakiyawat)  | [kushagrakiyawat](https://www.linkedin.com/in/kushagrakiyawat/) |
-| Mentor 3   | Abdullah Jameel |  [abdullahxyz85](https://github.com/abdullahxyz85/)  | [abdullahjameel94](https://www.linkedin.com/in/abdullahjameel94/) |
+| Mentor 1 | Gopichand Dandimeni |  [Gooichand](https://github.com/Gooichand) | [gopichand-dandimeni](https://www.linkedin.com/in/gopichand-dandimeni-269709287/) |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Give us a Star and let's make magic! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h1>
 
@@ -298,15 +346,17 @@ This project is licensed under the MIT License - see the [`License`](https://git
      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 **👨‍💻 Built with ❤️ by NeoNest Team**
 
-**❤️ Aditi Gupta and Contributors ❤️** [open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
+[open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #ff6f61, #ffcc70); border-radius: 2px; margin: 20px 0;">
 
 >**We built *NeoNest* with love and care, just like how every parent raises their child. We are glad you took time to visit our site.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
 <p align="center">
   <a href="#top" style="font-size: 18px; padding: 8px 16px; display: inline-block; border: 1px solid #ccc; border-radius: 6px; text-decoration: none;">
