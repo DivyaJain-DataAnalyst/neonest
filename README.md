@@ -283,9 +283,7 @@ cd neonest
  * Reference related issue(s): `Fixes #<issue-number>`
  * Add a clear title and summary.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **🤝👤 Contribution Guidelines**
 
@@ -293,17 +291,13 @@ We love our contributors! If you'd like to help, please check out our [`CONTRIBU
 
 >Thank you once again to all our contributors who has contributed to **NeoNest!** Your efforts are truly appreciated. 💖👏
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **📄 License**
 
 This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
 
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <!-- Contributors badge (auto-updating) -->
 
@@ -323,9 +317,7 @@ See the full list of contributors and their contributions on the [`GitHub Contri
 </p>
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **⭐ Stargazers**
 
@@ -335,9 +327,7 @@ See the full list of contributors and their contributions on the [`GitHub Contri
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **🍴 Forkers**
 
@@ -346,33 +336,26 @@ See the full list of contributors and their contributions on the [`GitHub Contri
     <img src="https://reporoster.com/forks/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Forkers" />
   </a>
 
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 **💡 Suggestions & Feedback**
 
 Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **🙌 Support & Star**
 
 ***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives!***
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **📜 Code of Conduct**
 
 Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <h2>🧑‍💻Project Admin:</h2>
 <table>
 <tr>
@@ -409,6 +392,7 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
 **👨‍💻 Built with ❤️ by NeoNest Team**
 
 [open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
