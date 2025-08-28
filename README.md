@@ -320,9 +320,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 
 <!-- Contributors badge (auto-updating) -->
 
-<p align="center">
 [![Contributors](https://img.shields.io/github/contributors/AditiGupta-tech/neonest?style=for-the-badge)](https://github.com/AditiGupta-tech/neonest/graphs/contributors)
-</p>
 
 <!-- Contributors avatars (auto-updating) -->
 <p align="left">
