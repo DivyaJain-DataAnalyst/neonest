@@ -297,7 +297,7 @@ We love our contributors! If you'd like to help, please check out our [`CONTRIBU
 
 This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Contributors badge (auto-updating) -->
 
@@ -321,22 +321,19 @@ See the full list of contributors and their contributions on the [`GitHub Contri
 
 **⭐ Stargazers**
 
-<div align="center">
   <a href="https://github.com/AditiGupta-tech/neonest/stargazers">
     <img src="https://reporoster.com/stars/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Stargazers" />
   </a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **🍴 Forkers**
 
-<div align="center">
   <a href="https://github.com/AditiGupta-tech/neonest/network/members">
     <img src="https://reporoster.com/forks/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Forkers" />
   </a>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **💡 Suggestions & Feedback**
 
