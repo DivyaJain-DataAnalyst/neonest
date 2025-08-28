@@ -408,9 +408,10 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**👨‍💻 Built with ❤️ by NeoNest Team**
-
-[open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
+<p align'"center">
+  **👨‍💻 Built with ❤️ by NeoNest Team**
+  [open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -420,8 +421,8 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
-<p align="center">
-  <a href="#top" style="font-size: 18px; padding: 8px 16px; display: inline-block; border: 1px solid #ccc; border-radius: 6px; text-decoration: none;">
-    ⬆️ Back to Top
-  </a>
-</p>
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
