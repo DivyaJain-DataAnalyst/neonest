@@ -67,6 +67,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<h2>🧑‍💻Project Admin:</h2>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/AditiGupta-tech"><img src="https://avatars.githubusercontent.com/u/195787501?v=4" height="140px" width="140px" alt="Aditi Gupta"></a><br><sub><b>Aditi Gupta</b><br><a href="https://www.linkedin.com/in/aditi-gupta-464024324/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ![GSSoC Logo](/neonest/public/gssoc%20logo.png)
 
 **🌟 Exciting News...**
@@ -283,7 +296,9 @@ cd neonest
  * Reference related issue(s): `Fixes #<issue-number>`
  * Add a clear title and summary.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **🤝👤 Contribution Guidelines**
 
@@ -291,13 +306,17 @@ We love our contributors! If you'd like to help, please check out our [`CONTRIBU
 
 >Thank you once again to all our contributors who has contributed to **NeoNest!** Your efforts are truly appreciated. 💖👏
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **📄 License**
 
 This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- Contributors badge (auto-updating) -->
 
@@ -317,50 +336,53 @@ See the full list of contributors and their contributions on the [`GitHub Contri
 </p>
 </h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **⭐ Stargazers**
 
+<div align="center">
   <a href="https://github.com/AditiGupta-tech/neonest/stargazers">
     <img src="https://reporoster.com/stars/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Stargazers" />
   </a>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **🍴 Forkers**
 
+<div align="center">
   <a href="https://github.com/AditiGupta-tech/neonest/network/members">
     <img src="https://reporoster.com/forks/AditiGupta-tech/neonest?type=svg&limit=100&names=false" alt="Forkers" />
   </a>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **💡 Suggestions & Feedback**
 
 Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **🙌 Support & Star**
 
 ***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives!***
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 **📜 Code of Conduct**
 
 Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2>🧑‍💻Project Admin:</h2>
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/AditiGupta-tech"><img src="https://avatars.githubusercontent.com/u/195787501?v=4" height="140px" width="140px" alt="Aditi Gupta"></a><br><sub><b>Aditi Gupta</b><br><a href="https://www.linkedin.com/in/aditi-gupta-464024324/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
