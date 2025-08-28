@@ -67,7 +67,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2>🧑‍💻Project Admin:</h2>
+<h2 align="center">🧑‍💻Project Admin:</h2>
 <table>
   <tr>
     <td align="center">
@@ -320,7 +320,9 @@ This project is licensed under the MIT License - see the [`License`](https://git
 
 <!-- Contributors badge (auto-updating) -->
 
+<p align="center">
 [![Contributors](https://img.shields.io/github/contributors/AditiGupta-tech/neonest?style=for-the-badge)](https://github.com/AditiGupta-tech/neonest/graphs/contributors)
+</p>
 
 <!-- Contributors avatars (auto-updating) -->
 <p align="left">
@@ -411,7 +413,7 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
 <h4 align="center">
 
 **👨‍💻 Built with ❤️ by NeoNest Team**
-[open an issue]([https://github.com/TheFlashCodes/FKvim/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
+[open an issue](https://github.com/TheFlashCodes/FKvim/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
 
 </h4>
 
