@@ -69,11 +69,11 @@
 
 <h2>🧑‍💻Project Admin:</h2>
 <table>
-<tr>
-<td align="center">
-<a href="https://github.com/AditiGupta-tech"><img src="https://avatars.githubusercontent.com/u/195787501?v=4" height="140px" width="140px" alt="Aditi Gupta"></a><br><sub><b>Aditi Gupta</b><br><a href="https://www.linkedin.com/in/aditi-gupta-464024324/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AditiGupta-tech"><img src="https://avatars.githubusercontent.com/u/195787501?v=4" height="140px" width="140px" alt="Aditi Gupta"></a><br><sub><b>Aditi Gupta</b><br><a href="https://www.linkedin.com/in/aditi-gupta-464024324/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -408,9 +408,12 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**👨‍💻 Built with ❤️ by NeoNest Team**
+<h2 align="center">
 
+**👨‍💻 Built with ❤️ by NeoNest Team**
 [open an issue]([https://github.com/TheFlashCodes/FKvim/issues) | [Watch Demo](https://neonest-babycare.vercel.app/))
+
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
