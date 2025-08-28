@@ -408,8 +408,9 @@ Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neone
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<p align'"center">
+<p align="center">
   **👨‍💻 Built with ❤️ by NeoNest Team**
+  
   [open an issue](https://github.com/AditiGupta-tech/neonest/issues) | [Watch Demo](https://neonest-babycare.vercel.app/)
 </p>
 
