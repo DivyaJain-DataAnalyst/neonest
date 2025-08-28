@@ -131,29 +131,34 @@ neonest/
  ***🍼 Feeding Tracker***
 - Log breast/formula feeds with time, amount, and notes  
 - Set personalized feeding schedules  
-- Track daily/weekly patterns for better routine building  
+- Track daily/weekly patterns for better routine building
+- Automated logging for recurring feed schedules
 
 ***😴 Sleep Tracker***
-- Record nap times and overnight sleep durations  
+- Record nap times and overnight sleep durations
+- Identify sleep patterns & set gentle reminders
 
 ***📈 Growth & Development***
 - Track developmental milestones by month  
-- Suggest 0–1 year activities to support healthy growth   
+- Suggest 0–1 year activities to support healthy growth
+- WHO Growth Chart comparison for weight, height, and head circumference
+- Visual insights on growth percentile tracking
 
 ***💉 Medical & Vaccine Management***
 - Schedule and track vaccination dates  
 - Upload doctor reports and prescriptions  
 - Quick-access emergency contacts and health URLs  
-- Real-time overdue alerts  
+- Real-time overdue alerts + notifications
 
 ***📦 Essentials Tracker***
 - Add/manage baby care items  
 - Categorized by daily, medical, hygiene, clothing, etc.  
-- Auto low-stock alerts + starter suggestions 
+- Auto low-stock alerts + starter kit suggestions 
 
 ***📚 Parenting Resources***
 - Curated articles by pediatricians and parenting experts  
-- Best practices, nutrition guides, safety checklists  
+- Best practices, nutrition guides, safety checklists
+- AI-summarized quick reads
 
 ***❓ FAQs***
 - Common concerns addressed: rashes, fevers, feeding issues  
@@ -162,7 +167,8 @@ neonest/
 ***📸 Memory Vault & Blog Sharing***
 - Save baby’s firsts (smile, steps, words), share your experiences and view others'.  
 - Option to write private or public blog-style memory entries  
-- Personalized journal and photo archive  
+- Personalized journal and photo archive
+- Engage with a community of parents
 
 ***🎵 Lullaby Module***
 - Default library of soft lullabies  
@@ -176,9 +182,18 @@ neonest/
 
 ***🤖 NeoNest AI – Role-Based Chatbot***
 
-- **🧑‍⚕ Pediatrician Mode**: Baby health insights and early symptom explanations  
-- **🍼 Baby Mode**: Interprets needs from baby’s perspective   
+- **🧑‍⚕ Pediatrician Mode**: Baby health insights and early symptom explanations
+- **🍼 Baby Mode**: Interprets needs from baby’s perspective
 - **👵 Nani/Mother Mode**: Offers comfort, guidance, and traditional wisdom
+
+***🔔 Notifications & Alerts***
+
+- Smart reminders for feedings, sleep, vaccinations, and stock refill
+- Push notifications for critical health/vaccine deadlines
+
+***🎙️ Voice-Enabled Inputs***
+- Add feeding, sleep, or medicine logs via voice commands
+- Hands-free logging for busy parents
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -272,19 +287,23 @@ cd neonest
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-**📜 Code of Conduct**
-
-Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 **🤝👤 Contribution Guidelines**
 
 We love our contributors! If you'd like to help, please check out our [`CONTRIBUTE.md`](https://github.com/AditiGupta-tech/neonest/blob/main/Contributing.md) file for guidelines.
 
 >Thank you once again to all our contributors who has contributed to **NeoNest!** Your efforts are truly appreciated. 💖👏
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+**📄 License**
+
+This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- Contributors badge (auto-updating) -->
 
@@ -303,30 +322,6 @@ See the full list of contributors and their contributions on the [`GitHub Contri
 <p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
 </p>
 </h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-**💡 Suggestions & Feedback**
-
-Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-**🙌 Support & Star**
-
-***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives!***
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-**📄 License**
-
-This project is licensed under the MIT License - see the [`License`](https://github.com/AditiGupta-tech/neonest/blob/main/LICENSE) file for details.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -355,6 +350,29 @@ This project is licensed under the MIT License - see the [`License`](https://git
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+**💡 Suggestions & Feedback**
+
+Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+**🙌 Support & Star**
+
+***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives!***
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+**📜 Code of Conduct**
+
+Please refer to the [`Code of Conduct`](https://github.com/AditiGupta-tech/neonest/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 <h2>🧑‍💻Project Admin:</h2>
 <table>
 <tr>
